@@ -18,9 +18,11 @@ Thank you for stopping by, now let's get started :zap:
 
 ## What is DevOps?
 
+DevOps is a method used in day to day processes to increase efficiency and improve delivery time.<sup>[1](#the-complete-guide-to-devops)</sup>
+
 DevOps attempts to ensure continuous delivery with high-quality software by combining software development (Dev) and IT operations (Ops).
 
-Test.<sup>[1](#how-to-become-a-devops-engineer)</sup>
+Test.<sup>[2](#how-to-become-a-devops-engineer)</sup>
 
 ## Why do we need DevOps?
 
@@ -65,4 +67,6 @@ Test.<sup>[1](#how-to-become-a-devops-engineer)</sup>
 
 ## References and Resources
 
-<a name="how-to-become-a-devops-engineer">1</a>: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737), last visited: 2020-12-28
+<a name="the-complete-guide-to-devops">1</a>: [What is Devops? | The complete guide to DevOps (With Examples)](https://medium.com/cuelogic-technologies/what-is-devops-the-complete-guide-to-devops-with-examples-13db789dd1c), last visited: 2020-12-28
+
+<a name="how-to-become-a-devops-engineer">2</a>: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737), last visited: 2020-12-28
