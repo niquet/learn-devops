@@ -21,9 +21,9 @@ Thank you for stopping by, now let's get started :zap:
 
 Let's start with the most obvious, the word *DevOps* itself. Short for *development* and *operations*, it describes a set of philosophies, practices and tools combining software development (Dev) and IT operations (Ops). Traditionally, the development and operations teams were isolated from each other. This resulted in slower delivery and less efficient products and services as technology became more advanced.<sup>[1](#the-complete-guide-to-devops)</sup> 
 
-In addition, many processes in company operations that could have been easily automated to increase efficiency were not automated because the developers simply did not know them. In response, mentioned set of philosophies, practices and tools emerged into the foreground that helped organizations deliver better products faster by enabling easier integration of development and operations. This includes involving the operations team when code is planned, written, tested and shipped as well as involving the development team in the relevant operations processes.
+In addition, many processes in company operations that could have been easily automated to increase efficiency were not automated because the developers simply did not know them. In response, mentioned set of philosophies, practices and tools emerged into the foreground that helped organizations deliver better products faster by enabling easier integration of development and operations. 
 
-Ultimatly enabling companies to offer improved service to their customers and markets and to have a competitive advantage. These emerging philosophies, practices and tools were gradually, widely adopted as the DevOps concept. 
+This includes involving the operations team when code is planned, written, tested and shipped as well as involving the development team in the relevant operations processes. Ultimatly enabling companies to offer improved service to their customers and markets and to have a competitive advantage. These emerging philosophies, practices and tools were gradually, widely adopted as the DevOps concept. 
 
 :bulb: **Key takeaway 1:** DevOps is a concept made up of philosophies, practices and tools, used in day to day processes to increase efficiency and improve delivery time.
 
