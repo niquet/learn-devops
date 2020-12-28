@@ -2,7 +2,6 @@
 Learn practices that combine software development (Dev) and IT operations (Ops) with the goal of ensuring continuous delivery with high quality software
 
 <img width="100.00%" src="https://github.com/niquet/learn-devops/blob/main/devops_cover.png">
-<a href="https://roadmap.sh/devops"><img width="100.00%" src="https://github.com/niquet/learn-devops/blob/main/devops_roadmaps_sh.png"></a>
 
 ## Contents
 
@@ -35,29 +34,33 @@ Learn practices that combine software development (Dev) and IT operations (Ops) 
 ## Why do we need DevOps?
 
 ## DevOps Roadmap
-### Learn a Programming Language
-### Understand different OS Concepts
-### Learn about Managing Servers
-#### Operating System
-#### Learn to live in Terminal
-#### Networking, Security and Protocols
-### What is and how to setup a Reverse Proxy
-### What is and how to setup a Forward Proxy
-### What is and how to setup a Firewall
-### What is and how to setup a Caching Server
-### What is and how to setup a Web Server
-### Learn Infrastructure as Code
-#### Learn some CI/CD Tool
-#### Containers
-#### Configuration Management
-#### Container Orchestration
-#### Infrastructure Provisioning
-### Learn how to monitor software and infrastructure
-#### Infrastructure Monitoring
-#### Application Monitoring
-#### Logs Management
-### Cloud Providers
-### Cloud Design Patterns
+
+<a href="https://roadmap.sh/devops"><img width="100.00%" src="https://github.com/niquet/learn-devops/blob/main/devops_roadmaps_sh.png"></a>
+
+
+## Learn a Programming Language
+## Understand different OS Concepts
+## Learn about Managing Servers
+### Operating System
+### Learn to live in Terminal
+### Networking, Security and Protocols
+## What is and how to setup a Reverse Proxy
+## What is and how to setup a Forward Proxy
+## What is and how to setup a Firewall
+## What is and how to setup a Caching Server
+## What is and how to setup a Web Server
+## Learn Infrastructure as Code
+### Learn some CI/CD Tool
+### Containers
+### Configuration Management
+### Container Orchestration
+### Infrastructure Provisioning
+## Learn how to monitor software and infrastructure
+### Infrastructure Monitoring
+### Application Monitoring
+### Logs Management
+## Cloud Providers
+## Cloud Design Patterns
 
 ## DevOps Implementation
 ### DevOps Initiative
