@@ -6,7 +6,13 @@ Below you find explanations of the basic theory and tools needed to get started 
 
 We will explore the theory and tools based on the DevOps Roadmap created and maintained by [kamranahmedse](https://github.com/kamranahmedse/developer-roadmap). Make sure to not only leave a star on this GitHub Repository, but [kamranahmedse's](https://github.com/kamranahmedse/developer-roadmap) as well. Or take a look at the DevOps and other Roadmaps [here](https://roadmap.sh/roadmaps).
 
-Let's get started :zap:
+## Note
+
+Fully understanding DevOps and the knowledge it requires will not happen overnight. Make sure you put the theory, tools and practices outlined below into practice. For example, in an existing project or even build small projects around the topics discussed to get the best learning experience.
+
+If you should already be familiar with DevOps, share this resource with others. Use it to refresh your knowledge and feel free to contribute if you think certain things could be updated / further improved.
+
+Thank you for stopping by, now let's get started :zap:
 
 ## Contents
 
