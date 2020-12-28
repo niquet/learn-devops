@@ -18,13 +18,21 @@ Thank you for stopping by, now let's get started :zap:
 
 ## What is DevOps?
 
-DevOps is a method used in day to day processes to increase efficiency and improve delivery time.<sup>[1](#the-complete-guide-to-devops)</sup>
+DevOps is a method used in day to day processes to increase efficiency and improve delivery time.<sup>[1](#the-complete-guide-to-devops)</sup> Instead of having the development and operations teams work separately, the teams work together from concept to execution to delivery and support. 
+
+This includes involving the operations team when code is planned, written, tested and shipped as well as involving the development team in the relevant operations processes.
+
+
 
 DevOps attempts to ensure continuous delivery with high-quality software by combining software development (Dev) and IT operations (Ops).
 
 Test.<sup>[2](#how-to-become-a-devops-engineer)</sup>
 
 ## Why do we need DevOps?
+
+In a nutshell, DevOps can prevent a lot of heartache, frustration and inefficiency.<sup>[1](#the-complete-guide-to-devops)</sup> Especially between development and operations teams, which would otherwise work strictly separately from each other, and possibly other departments involved in development.
+
+
 
 ## DevOps Roadmap
 
