@@ -76,4 +76,4 @@ Test.<sup>[1](#how-to-become-a-devops-engineer)</sup>
 
 ## References and Resources
 
-<a href="#how-to-become-a-devops-engineer">1</a>: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737), last visited: 2020-12-28
+<a href="how-to-become-a-devops-engineer">1</a>: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737), last visited: 2020-12-28
