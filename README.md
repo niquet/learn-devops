@@ -31,6 +31,8 @@ Learn practices that combine software development (Dev) and IT operations (Ops) 
 
 ## What is DevOps?
 
+Test.<sup>[1](#how-to-become-a-devops-engineer)</sup>
+
 ## Why do we need DevOps?
 
 ## DevOps Roadmap
@@ -71,3 +73,7 @@ Learn practices that combine software development (Dev) and IT operations (Ops) 
 ### Ensuring Application Performance Monitoring
 
 ## DevOps Best Practices
+
+## References and Resources
+
+<a href="how-to-become-a-devops-engineer">1</a>: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737), last visited: 2020-12-28
