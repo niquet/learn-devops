@@ -3,7 +3,6 @@
 Below you find explanations of the basic theory and tools needed to get started with DevOps. Further, we will explore some of its practices. Once you know all about DevOps and its practices, we want to highlight the gap between knowing all about DevOps and successfully adapting DevOps.
 
 <!-- <img width="100.00%" src="https://github.com/niquet/learn-devops/blob/main/devops_cover.png"> -->
-<!-- img width="100.00%" src="https://github.com/niquet/learn-devops/blob/main/devops_what_it_is.png" -->
 
 We will explore the theory and tools based on the DevOps Roadmap created and maintained by [kamranahmedse](https://github.com/kamranahmedse/developer-roadmap). Make sure to not only leave a star on this GitHub Repository, but [kamranahmedse's](https://github.com/kamranahmedse/developer-roadmap) as well. Or take a look at the DevOps and other Roadmaps [here](https://roadmap.sh/roadmaps).
 
@@ -23,7 +22,9 @@ Let's start with the most obvious, the word *DevOps* itself. Short for *developm
 
 In addition, many processes in company operations that could have been easily automated to increase efficiency were not automated because the developers simply did not know them. In response, mentioned set of philosophies, practices and tools emerged into the foreground that helped organizations deliver better products faster by enabling easier integration of development and operations. 
 
-This includes involving the operations team when code is planned, written, tested and shipped as well as involving the development team in the relevant operations processes. Ultimatly enabling companies to offer improved service to their customers and markets and to have a competitive advantage. These emerging philosophies, practices and tools were gradually, widely adopted as the DevOps concept. 
+This includes involving the operations team when code is planned, written, tested and shipped as well as involving the development team in the relevant operations processes. Ultimatly enabling companies to offer improved service to their customers and markets and to have a competitive advantage. These emerging philosophies, practices and tools were gradually, widely adopted as the DevOps concept.
+
+<img width="100.00%" src="https://github.com/niquet/learn-devops/blob/main/devops_what_it_is.png">
 
 :bulb: **Key takeaway 1:** DevOps is a concept made up of philosophies, practices and tools, used in day to day processes to increase efficiency and improve delivery time.
 
