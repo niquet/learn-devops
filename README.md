@@ -3,7 +3,7 @@
 Below you find explanations of the basic theory and tools needed to get started with DevOps. Further, we will explore some of its practices. Once you know all about DevOps and its practices, we want to highlight the gap between knowing all about DevOps and successfully adapting DevOps. :bulb:
 
 <!-- <img width="100.00%" src="https://github.com/niquet/learn-devops/blob/main/devops_cover.png"> -->
-<img width="100.00%" src="https://github.com/niquet/learn-devops/blob/main/devops_what_it_is.png">
+<!-- img width="100.00%" src="https://github.com/niquet/learn-devops/blob/main/devops_what_it_is.png" -->
 
 We will explore the theory and tools based on the DevOps Roadmap created and maintained by [kamranahmedse](https://github.com/kamranahmedse/developer-roadmap). Make sure to not only leave a star on this GitHub Repository, but [kamranahmedse's](https://github.com/kamranahmedse/developer-roadmap) as well. Or take a look at the DevOps and other Roadmaps [here](https://roadmap.sh/roadmaps).
 
