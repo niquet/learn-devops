@@ -14,31 +14,7 @@ If you should already be familiar with DevOps, share this resource with others. 
 
 Thank you for stopping by, now let's get started :zap:
 
-## Contents
-
-1. [What is DevOps?](#what-is-devops)
-2. [Why do we need DevOps?](#why-do-we-need-devops)
-3. [DevOps Roadmap](#devops-roadmap)
-* 3.1. [Learn a Programming Language]()
-* 3.2. [Understand different OS Concepts]()
-* 3.3. [Learn about Managing Servers]()
-* 3.3.1. [Operating System]()
-* 3.3.2. [Learn to live in Terminal]()
-* 3.3.3. [Networking, Security and Protocols]()
-* 3.4. [What is and how to setup a Reverse Proxy]()
-* 3.5. [What is and how to setup a Forward Proxy]()
-* 3.6. [What is and how to setup a Firewall]()
-* 3.7. [What is and how to setup a Caching Server]()
-* 3.8. [What is and how to setup a Web Server]()
-* 3.9. [Learn Infrastructure as Code]()
-* 3.9.1. [Learn some CI/CD Tool]()
-* 3.9.2. [Containers]()
-* 3.9.3. [Configuration Management]()
-* 3.9.4. [Infrastructure Provisioning]()
-* 3.10. []()
-* 3.11. []()
-4. [DevOps Implementation](#devops-implementation)
-5. [DevOps Best Practices](#devops-best-practices)
+## Table of Contents
 
 ## What is DevOps?
 
