@@ -1,7 +1,12 @@
 # Learn DevOps
-Learn practices that combine software development (Dev) and IT operations (Ops) with the goal of ensuring continuous delivery with high quality software
+
+Below you find explanations of the basic theory and tools needed to get started with DevOps. Further, we will explore some of its practices. Once you know all about DevOps and its practices, we want to highlight the gap between knowing all about DevOps and successfully implementing DevOps.
 
 <img width="100.00%" src="https://github.com/niquet/learn-devops/blob/main/devops_cover.png">
+
+We will explore the theory and tools based on the DevOps Roadmap created and maintained by [kamranahmedse](https://github.com/kamranahmedse/developer-roadmap). Make sure to not only leave a star on this GitHub Repository, but [kamranahmedse's](https://github.com/kamranahmedse/developer-roadmap) as well. Or take a look at the DevOps and other Roadmaps [here](https://roadmap.sh/roadmaps).
+
+Let's get started :zap:
 
 ## Contents
 
@@ -30,6 +35,8 @@ Learn practices that combine software development (Dev) and IT operations (Ops) 
 5. [DevOps Best Practices](#devops-best-practices)
 
 ## What is DevOps?
+
+DevOps attempts to ensure continuous delivery with high-quality software by combining software development (Dev) and IT operations (Ops).
 
 Test.<sup>[1](#how-to-become-a-devops-engineer)</sup>
 
